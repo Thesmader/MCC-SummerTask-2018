@@ -1,0 +1,16 @@
+.card-columns{
+	background: url('img/bg2.jpeg');
+}
+
+.card-text{
+	color: #060606;
+}
+
+a:link, a:visited { 
+    color: #000;
+    text-decoration: none;
+}
+
+a:link:active, a:visited:active { 
+    color: (internal value);
+} 
